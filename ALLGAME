@@ -1,0 +1,6 @@
+if game.PlaceId == 286090429 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KakHub/ARSENALV1.0/main/KAKHUB"))()
+else if game.PlaceId == 1345139196 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KakHub/TreasureHunt/main/KAKHUB"))()
+end
+end
